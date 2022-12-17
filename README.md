@@ -3,6 +3,10 @@
 A Spigot (Bukkit) Minecraft plugin that restarts server at intervals of configurable amount of time
 
 
+## Version
+> 1.12.2+
+
+
 ## Configuration ([default](/src/main/resources/config.yml))
 
 - Restart timeout (in seconds, default: `600` (10 minutes))
