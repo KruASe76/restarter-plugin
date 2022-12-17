@@ -1,0 +1,7 @@
+name: Restarter
+version: '${project.version}'
+main: me.kruase.restarter_plugin.Restarter
+api-version: 1.12.2
+authors: [ KruASe ]
+
+description: Restarts server at intervals of configurable amount of time
