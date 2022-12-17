@@ -4,7 +4,7 @@ A Spigot (Bukkit) Minecraft plugin that restarts server at intervals of configur
 
 
 ## Version
-> 1.12.2+
+> 1.13+
 
 
 ## Configuration ([default](/src/main/resources/config.yml))
